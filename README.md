@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Christo.Landry@gmail.com**
 
-- ⚡ Fun fact **I used to be a professional runner** and was a: 6x National Champion, 4x Team USA member, former American Record Holder
+- ⚡ Fun fact **I used to be a professional runner** and was a: 6x National Champion, 4x Team USA member, and former American Record Holder
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
