@@ -28,7 +28,7 @@
                 <h3 align="center">Charlotte Astrophiles</h3>
                 <br />
                     <a target="_blank" href="https://charlotteastrophiles.netlify.app/">
-                    <img src="happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="charlotteAstrophiles.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
