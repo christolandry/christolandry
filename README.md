@@ -105,7 +105,7 @@
                 <h3 align="center">Portfolio</h3>
                 <br />
                     <a target="_blank" href="https://christolandry.netlify.app/">
-                    <img src="https://happytailsdoggroomings.netlify.app/images/happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="portfolio.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
@@ -116,7 +116,6 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-                <p align="center">Summer running camp for high school athletes</p>
             </td>
         </tr>
     </table>
