@@ -76,7 +76,7 @@
                 <h3 align="center">Ascent Running Camp</h3>
                 <br />
                     <a target="_blank" href="https://ascentrunningcamp.com">
-                    <img src="https://happytailsdoggroomings.netlify.app/images/happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="ascentRunningCamp.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
