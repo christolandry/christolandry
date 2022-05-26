@@ -36,7 +36,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
                     <a href="https://charlotteastrophiles.netlify.app/" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 <!-- <p align="center">Online Coding MeetUp Group</p> -->
             </td>
@@ -52,7 +52,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
                     <a href="https://www.kimmiethecoder.com/codingmeetup/" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
                 <!-- <p align="center">Online Coding MeetUp Group</p> -->
@@ -81,7 +81,7 @@
                 <br />
                 <p align="center">
                     <a href="https://ascentrunningcamp.com" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
                 <p align="center">Summer running camp for high school athletes</p>
@@ -113,7 +113,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
                     <a href="https://christolandry.netlify.app/" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
                 <p align="center">Summer running camp for high school athletes</p>
