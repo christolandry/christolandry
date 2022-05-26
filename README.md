@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=|&message=MongoDB&color=23555f&style=plastic&logo=mongodb&logo-color=white"/>
 </h1>
 
-<p align="center">A passionate full stack developer from Charlotte, NC.  I was a professional runner (6x National Champion, 4x Team USA member, and former American Record Holder), coach and started my own coaching business and running camp.  I've built and deployed many full-stack applications, including an app that creates individually tailed training plans for runners, spending less time worrying about handwritten notebooks and more time focusing on what they love. I want to bring my focus, discipline, and drive to build products for a company that matches my passion.</p>
+<p align="center">I'm a passionate full stack developer from Charlotte, NC.  I was a professional runner (6x National Champion, 4x Team USA member, and former American Record Holder), coach and started my own coaching business and running camp.  I've built and deployed many full-stack applications, including an app that creates individually tailed training plans for runners, spending less time worrying about handwritten notebooks and more time focusing on what they love. I want to bring my focus, discipline, and drive to build products for a company that matches my passion.</p>
 
 <p align="center">
   <a href="https://christolandry.netlify.app/" target="_blank">
