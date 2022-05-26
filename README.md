@@ -92,7 +92,7 @@
                 <h3 align="center">Ascent Running Coaching</h3>
                 <br />
                     <a target="_blank" href="https://ascentrunningcoaching.com/">
-                    <img src="happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="ascentRunningCoaching.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
