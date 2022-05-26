@@ -63,7 +63,7 @@
                 <h3 align="center">Professional Runner</h3>
                 <br />
                     <a target="_blank" href="https://christolandry.com/">
-                    <img src="happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="christoLandry.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
                 <br />
                 <p align="center">
