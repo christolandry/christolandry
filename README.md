@@ -93,6 +93,9 @@
             <td width="50%" valign="top">
                 <h3 align="center">Ascent Running Coaching</h3>
                 <br />
+                    <a href="https://github.com/christolandry/AscentRunningCamp" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
                     <a target="_blank" href="https://ascentrunningcoaching.com/">
                     <img src="ascentRunningCoaching.gif" width="100%"  alt="Coding MeetUp"/>
                 </a>
