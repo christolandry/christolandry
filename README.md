@@ -40,7 +40,7 @@
                     <a href="https://charlotteastrophiles.netlify.app/" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <!-- <p align="center">Online Coding MeetUp Group</p> -->
+                <p align="center">Website using multi space related API's to bring update content</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Happy Tails Dog Grooming</h3>
@@ -57,7 +57,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
-                <!-- <p align="center">Online Coding MeetUp Group</p> -->
+                <p align="center">Website for a dog groomer</p>
             </td>
         </tr>
         <tr>
@@ -121,6 +121,7 @@
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
+                <p align="center">Personal portfolio page</p>
             </td>
         </tr>
     </table>
