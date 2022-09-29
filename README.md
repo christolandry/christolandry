@@ -27,10 +27,40 @@
 <table bordercolor="#32CD32">
         <tr>
             <td width="50%" valign="top">
+                <h3 align="center">Training Plan Generator</h3>
+                <br />
+                    <a target="_blank" href="https://github.com/christolandry/Training-Plan-Generator">
+                    <img src="trainingPlanGenerator.gif" width="100%"  alt="Training Plan Generator Gif"/>
+                </a>
+                <br />
+                <p align="center">
+                     <a href="https://github.com/christolandry/Training-Plan-Generator" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Full-stack web app that automatically generates individually tailored training plans for runners</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Poker Log</h3>
+                <br />
+                    <a target="_blank" href="https://github.com/christolandry/Poker-Log">
+                    <img src="poker-log.gif" width="100%"  alt="Poker Log Gif"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/christolandry/Poker-Log" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Full stack web app that tracks all player's profit & losses automatically upon upload of a ledger file</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
                 <h3 align="center">Charlotte Astrophiles</h3>
                 <br />
                     <a target="_blank" href="https://charlotteastrophiles.netlify.app/">
-                    <img src="charlotteAstrophiles.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="charlotteAstrophiles.gif" width="100%"  alt="Charlotte Astrophiles Gif"/>
                 </a>
                 <br />
                 <p align="center">
@@ -46,7 +76,7 @@
                 <h3 align="center">Happy Tails Dog Grooming</h3>
                 <br />
                     <a target="_blank" href="https://happytailsdoggroomings.netlify.app/">
-                    <img src="https://happytailsdoggroomings.netlify.app/images/happyTails.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="https://happytailsdoggroomings.netlify.app/images/happyTails.gif" width="100%"  alt="Happy Tails Gif"/>
                 </a>
                 <br />
                 <p align="center">
@@ -65,7 +95,7 @@
                 <h3 align="center">Professional Runner</h3>
                 <br />
                     <a target="_blank" href="https://christolandry.com/">
-                    <img src="christoLandry.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="christoLandry.gif" width="100%"  alt="Website Gif"/>
                 </a>
                 <br />
                 <p align="center">
@@ -78,7 +108,7 @@
                 <h3 align="center">Ascent Running Camp</h3>
                 <br />
                     <a target="_blank" href="https://ascentrunningcamp.com">
-                    <img src="ascentRunningCamp.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="ascentRunningCamp.gif" width="100%"  alt="Website Gif"/>
                 </a>
                 <br />
                 <p align="center">
@@ -97,7 +127,7 @@
                 <h3 align="center">Ascent Running Coaching</h3>
                 <br />
                     <a target="_blank" href="https://ascentrunningcoaching.com/">
-                    <img src="ascentRunningCoaching.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="ascentRunningCoaching.gif" width="100%"  alt="Website Gif"/>
                 </a>
                 <br />
                 <p align="center">
@@ -110,7 +140,7 @@
                 <h3 align="center">Portfolio</h3>
                 <br />
                     <a target="_blank" href="https://christolandry.netlify.app/">
-                    <img src="portfolio.gif" width="100%"  alt="Coding MeetUp"/>
+                    <img src="portfolio.gif" width="100%"  alt="Website Gif"/>
                 </a>
                 <br />
                 <p align="center">
