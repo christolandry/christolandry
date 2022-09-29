@@ -70,7 +70,7 @@
                     <a href="https://charlotteastrophiles.netlify.app/" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">Website using multi space related API's to bring update content</p>
+                <p align="center">Website using multi space related API's to bring current content</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Happy Tails Dog Grooming</h3>
