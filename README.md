@@ -29,13 +29,16 @@
             <td width="50%" valign="top">
                 <h3 align="center">Training Plan Generator</h3>
                 <br />
-                    <a target="_blank" href="https://github.com/christolandry/Training-Plan-Generator">
+                    <a target="_blank" href="https://ascent-running-training-plan-generator.vercel.app/">
                     <img src="trainingPlanGenerator.gif" width="100%"  alt="Training Plan Generator Gif"/>
                 </a>
                 <br />
                 <p align="center">
                      <a href="https://github.com/christolandry/Training-Plan-Generator" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://ascent-running-training-plan-generator.vercel.app/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
                 </p>
                 <p align="center">Full-stack web app that automatically generates individually tailored training plans for runners</p>
