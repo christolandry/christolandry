@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=|&message=MongoDB&color=23555f&style=plastic&logo=mongodb&logo-color=white"/>
 </h1>
 
-<p align="center">I'm a passionate full stack developer from Charlotte, NC.  I was a professional runner (6x National Champion, 4x Team USA member, and former American Record Holder), a coach, and I've started my own coaching business and running camp.  I've built and deployed many websites and now I want to bring my focus, discipline, and drive to build products for a company that matches my passion.
-<!-- I've built and deployed many full-stack applications, including an app that creates individually tailed training plans for runners, spending less time worrying about handwritten notebooks and more time focusing on what they love. I want to bring my focus, discipline, and drive to build products for a company that matches my passion. -->
+<p align="center">Full stack software engineer looking for positions with growth potential. I'm a recently retired professional runner who won multiple National Championships and has a strong drive to excel and be the best in my field. I have a history of entrepreneurship; launching a coaching business and a summer camp for runners. I will leverage my twenty years of hobbyist programming and recent 100 Dev's experience to excel in my next position.
 </p>
 
 <p align="center">
@@ -42,6 +41,7 @@
                     </a>
                 </p>
                 <p align="center">Full-stack web app that automatically generates individually tailored training plans for runners</p>
+                <p align="center">JavaScript | Node.js | Express | MongoDB</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Poker Log</h3>
@@ -56,6 +56,7 @@
                     </a>
                 </p>
                 <p align="center">Full stack web app that tracks all player's profit & losses automatically upon upload of a ledger file</p>
+                <p align="center">Python | Flask | MySQL | AWS Lightsail / RDS</p>
             </td>
         </tr>
         <tr>
